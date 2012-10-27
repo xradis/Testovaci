@@ -1,0 +1,10 @@
+{
+    "name": "DeveloperHub/PHPTestCase",
+    "description": "PHPUnit testing tool for PHP",
+    "authors": [
+        {
+            "name": "{ DeveloperHub",
+            "email": "rdpanek@developerhub.cz"
+        }
+    ]
+}
